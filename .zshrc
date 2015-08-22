@@ -93,3 +93,4 @@ alias e="emacsclient -t"
 
 # emacs gui without waiting server response
 alias ec="emacsclient -c"
+alias c="g++ -g -O0 -std=c++11"

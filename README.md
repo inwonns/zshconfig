@@ -9,7 +9,8 @@
 
 3. add /usr/local/bin/zsh into /etc/shells
 
-4. chsh -s /usr/local/bin/zsh
+4. as root 
+   chsh -s /usr/local/bin/zsh username
 
 5. copy .zshrc into your home
 

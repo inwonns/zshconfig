@@ -94,3 +94,5 @@ alias e="emacsclient -t"
 # emacs gui without waiting server response
 alias ec="emacsclient -c"
 alias c="g++ -g -Wall -O0 -std=c++11"
+
+echo "if [ $commands[kubectl] ]; then source <(kubectl completion zsh); fi"

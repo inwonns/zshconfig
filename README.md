@@ -1,4 +1,4 @@
-# zshconfig
+# install zsh and config
 
 1. install zsh (brew, yum, apt-get)
    brew install zsh

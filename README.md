@@ -7,10 +7,10 @@
 2. install oh-my-zsh 
    curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh 
 
-3. add /usr/local/bin/zsh into /etc/shells
+3. add /usr/bin/zsh into /etc/shells
 
 4. as root 
-   chsh -s /usr/local/bin/zsh username
+   chsh -s /usr/bin/zsh username
 
 5. copy .zshrc into your home
 
